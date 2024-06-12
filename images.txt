@@ -5,3 +5,4 @@ talebook/talebook
 emby/embyserver
 portainer/portainer
 portainer/agent
+talebook/talebook
