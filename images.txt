@@ -4,3 +4,4 @@ xhofe/alist:latest
 talebook/talebook
 emby/embyserver
 portainer/portainer
+portainer/agent
