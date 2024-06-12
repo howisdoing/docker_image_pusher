@@ -6,3 +6,4 @@ emby/embyserver
 portainer/portainer
 portainer/agent
 talebook/talebook
+talebook/calibre-webserver:latest
