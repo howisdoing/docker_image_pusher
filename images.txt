@@ -7,3 +7,4 @@ portainer/portainer
 portainer/agent
 talebook/talebook
 talebook/calibre-webserver:latest
+xhongc/music_tag_web:latest
