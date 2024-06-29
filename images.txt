@@ -9,3 +9,4 @@ talebook/talebook
 talebook/calibre-webserver:latest
 xhongc/music_tag_web:latest
 jc21/nginx-proxy-manager
+chishin/nginx-proxy-manager-zh
