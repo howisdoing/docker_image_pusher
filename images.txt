@@ -11,4 +11,3 @@ xhongc/music_tag_web:latest
 jc21/nginx-proxy-manager
 chishin/nginx-proxy-manager-zh
 nriver/trilium-cn
-Audiobookshelf
